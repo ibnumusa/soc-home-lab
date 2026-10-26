@@ -3,9 +3,10 @@
 A hands-on lab where I practice detection and alert triage using Wazuh.
 
 ## Lab setup
-- Host: laptop, 8 GB RAM
-- Wazuh server: [OVA or Ubuntu Server, add RAM/CPU]
+- SIEM: Wazuh server running in a virtual machine
 - Endpoint: Windows 10 VM with Wazuh agent + Sysmon (planned)
+- Attack simulation: Atomic Red Team (planned)
+- Detection mapping: MITRE ATT&CK
 
 ## Progress
 - [x] Wazuh tested and working
